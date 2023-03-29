@@ -3,12 +3,8 @@
     justify-content: space-around;
 }
 
-#menu-left {
-    display: flex;
-    justify-content: space-around;
-    width: 25%;
-    align-items: center;
-}
+#menu-left 
+    
 
 
 
